@@ -1,0 +1,1 @@
+g++ src/*.cpp -o SoupSim.exe -lSDL2 -lSDL2_image -I include

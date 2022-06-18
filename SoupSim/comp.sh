@@ -1,1 +1,1 @@
-g++ src/*.cpp -o Krotharkia -lSDL2 -lSDL2_image -I include
+g++ src/*.cpp -o SoupSim -lSDL2 -lSDL2_image -I src
